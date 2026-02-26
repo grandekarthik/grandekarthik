@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 👤 G. Karthik<br><br>📍 Kurnool, Andhra Pradesh, India<br>🎓 B.Tech in Computer Science (CGPA 6.8) + Diploma in Biomedical Engineering<br>💼 Aspiring IT Support / Service Desk professional<br>🔐 Passionate about Cybersecurity (Palo Alto Networks intern, Evil Twin Attack project)<br>🏆 Award winner — 3rd Prize at Techno Jignasa 2.0<br>💻 Knows Python, Java, SQL, HTML, CSS, Linux<br>📱 Certified in Android App Development (Swayam)<br>🏥 Has real-world experience in a 24x7 high-pressure environment (Apollo Hospitals)<br>🤝 Team player, problem solver, fast learner
 
 
